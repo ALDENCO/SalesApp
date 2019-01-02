@@ -1,0 +1,36 @@
+
+body{
+    background-color:black;
+}
+
+h1{
+    text-align:center;
+    
+}
+
+form {
+
+    padding: 0px;
+	margin: 0px 1% 1% 0px;
+	width: 50px;
+
+}
+
+
+img {
+
+    box-align: center;
+
+}
+
+
+p {
+
+    text-align: center; 
+
+}
+
+.btn-primary,.btn-lg{
+    align:auto;
+}
+   
